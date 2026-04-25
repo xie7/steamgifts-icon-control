@@ -15,7 +15,7 @@
 
 ### 方法一：直接安装（推荐）
 1. 确保已安装 [Tampermonkey](https://www.tampermonkey.net/) 扩展
-2. 点击此链接安装脚本：[安装链接](https://raw.githubusercontent.com/YourUsername/steamgifts-icon-control/main/steamgifts-icon-control.user.js)
+2. 点击此链接安装脚本：[安装链接](https://raw.githubusercontent.com/xie7/steamgifts-icon-control/main/steamgifts-icon-control.user.js)
 
 ### 方法二：手动安装
 1. 复制 [steamgifts-icon-control.user.js](steamgifts-icon-control.user.js) 文件内容
